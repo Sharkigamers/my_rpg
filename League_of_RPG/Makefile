@@ -44,7 +44,7 @@ SRC	=	main.c						\
 		$(INIT)init_cooldown.c				\
 		$(INIT)init_button.c				\
 		$(INIT)init_shop.c				\
-		$(INIT)init_shop_item.c			\
+		$(INIT)init_shop_item.c				\
 		$(INIT)init_button_annex.c			\
 		$(INIT)init_option.c				\
 		$(INIT)init_option_annex.c			\
